@@ -1,0 +1,2 @@
+# enlaceoperativo
+Proceso de automatización
